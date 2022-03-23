@@ -9,7 +9,6 @@ const DATA = [
 	{ id: 'todo-2', name: 'Repeat', completed: false },
 ]
 
-
 ReactDOM.render(
   <React.StrictMode>
     <App tasks={DATA} />
